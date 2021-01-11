@@ -1,5 +1,5 @@
 ## Martin Banchero
-Passionate about biology and coding.
+Initially trained as a biologist, specialized in molecular biology. Recently finishing my master's in bioinformatics at the VU-UvA in Amsterdam. Looking forward to working in the field of Biomedical data sciences.
 
 
 #### Contact
