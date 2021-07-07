@@ -1,5 +1,5 @@
 ## Martin Banchero
-Initially trained as a biologist, specialized in molecular biology. Recently finishing my master's in bioinformatics at the VU-UvA in Amsterdam. Looking forward to working in the field of Biomedical data sciences.
+Initially trained as a biologist, specialized in molecular biology. Master in bioinformatics and Sytems Biology for the VU-UvA in Amsterdam. Recently I started a new position at the UMCG in Groningen as bioinformatician in charge of scRNA-seq data generated whithin the group of medical biology.
 
 
 #### Contact
