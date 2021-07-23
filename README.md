@@ -6,5 +6,5 @@ Initially trained as a biologist, specialized in molecular biology. Master in bi
 &nbsp;
 [![gmail](https://github.com/MartinBanchero/MartinBanchero/blob/master/New_Logo_Gmail.png) @martinbbanchero](mailto:martinbbanchero@gmail.com)
 &nbsp;
-[<img src="https://github.com/MartinBanchero/MartinBanchero/blob/master/UMCG-logo-min.jpg" alt="UMCG_logo" width="100"/> @martinbbanchero](mailto:martinbbanchero@gmail.com)
+[<img src="https://github.com/MartinBanchero/MartinBanchero/blob/master/UMCG-logo-min.jpg" alt="UMCG_logo" width="80"/> @martinbbanchero](mailto:martinbbanchero@gmail.com)
 &nbsp;
